@@ -1,3 +1,8 @@
+Par  : Picard Raphaël 3 ETI
+Lieu : CPE LYON
+date : Novembre 2024
+Codé en : Python sur VSCode
+
 L’objectif de ce programme est de créer un automate capable de vérifier que la syntaxe d’une phrase est correcte (en vue d’une
 intégration ultérieure dans un correcteur grammatical par exemple ...). Une phrase est correcte (version
 ultra simplifiée) si elle respecte le schéma :
