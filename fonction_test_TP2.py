@@ -3,7 +3,7 @@
 Par  : Picard Raphaël 3 ETI
 Lieu : CPE LYON
 date : Jeudi 26 septembre
-Codé en : Python sur VS Codes
+Codé en : Python sur VSCode
 
 
 L’objectif de ce programme est de créer un automate capable de vérifier que la syntaxe d’une phrase est correcte (en vue d’une
